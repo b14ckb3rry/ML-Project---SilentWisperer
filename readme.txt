@@ -48,7 +48,7 @@ python app.py
 
 
 Steep 9:
-
 Open index.html from 'src' folder by live server
 
 Enjoy basic Machine Learning Project
+
